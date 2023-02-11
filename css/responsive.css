@@ -1,0 +1,710 @@
+@media (min-width: 280px) and (max-width: 319px){
+/* css start*/
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px;
+}
+
+.header .try-button .btn-primary {
+    margin: 0px 0px 0px -8px
+}
+
+.slider .inner-slider {
+    padding: 50px 0px;
+}
+
+.slider .inner-slider .hero-text .htop p {
+    font-size: 12px;
+}
+
+.inner-slider .hero-text{
+	margin: -130px 0px -110px;
+}
+
+.slider .inner-slider .hero-text .hdown h4{
+	font-size: 20px;
+	margin: 0px 0px 12px;
+}
+
+.slider .inner-slider .hero-text .hdown h2 {
+    font-size: 29px;
+    line-height: 39px;
+}
+
+.slider .inner-slider .hero-text .hdown p {
+	font-size: 10px;
+	line-height: 20px;
+}
+
+.slider .inner-slider .hero-text .double-button .btn-primary{
+	padding: 10px 20px;
+    font-size: 10px;
+    margin: 0px 10px 0px 0px;
+}
+
+.slider .inner-slider .hero-text .double-button .btn-info {
+    padding: 10px 10px;
+    font-size: 10px;
+}
+
+.company {
+    padding: 50px 0px;
+}
+
+.feature {
+    padding: 40px 0px;
+}
+
+.feature .inner-feature .feature-box{
+    justify-content: center;
+}
+
+.feature .inner-feature .feature-text{
+    text-align: center;
+}
+
+.feature .inner-feature .feature-text h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.feature .inner-feature .feature-text p{
+	font-size: 10px;
+}
+
+.feature .inner-feature .feature-box .content h4 {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.feature .inner-feature .feature-box .content p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.feature .inner-feature .feature-box .icon img {
+    height: 60px;
+    width: 60px;
+    margin: 20px 20px 0px 0px;
+}
+
+.integration {
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.integration .inte-top h2 {
+    font-size: 23px;
+    line-height: 33px;
+ }
+ 
+ .integration .inte-top p {
+    font-size: 11px;
+    line-height: 21px;
+    margin: 30px 0px;
+} 
+
+.integration .inte-mid {
+    margin: 25px 0px;
+ }
+
+.integration .integration-contant {
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+
+ .integration .integration-contant h2 {
+    font-size: 25px;
+    line-height: 35px;
+} 
+
+.integration .integration-contant p {
+    font-size: 11px;
+    line-height: 21px;
+} 
+
+.our-app {
+    padding: 30px 0px;
+ }
+
+ .our-app .app-heading h2 {
+    font-size: 20px;
+    line-height: 30px;
+ }
+ 
+ .our-app .app-heading p {
+    font-size: 7px;
+    line-height: 17px;
+    margin: 0px 0px 40px; 
+ }
+ 
+ .we-build {
+    padding: 30px 0px;
+    text-align: center;
+}
+
+.we-build .build-heading h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+
+.we-build .build-heading p {
+    font-size: 11px;
+    line-height: 21px;
+}
+
+.we-build .build-info h4 {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.we-build .build-info p {
+    font-size: 8px;
+    line-height: 18px;
+    margin: 0px 0px 30px;
+}  
+
+.we-build .build-info .build-button .btn-primary {
+    margin: 0px 0px 30px;
+} 
+
+.pricing .pricing-top h2 {
+    font-size: 16px;
+    line-height: 26px;
+}  
+
+.pricing .pricing-top p {
+    font-size: 7px;
+    line-height: 17px;
+}
+
+.pricing .card {
+    width: 100%;
+ }
+
+ .faq {
+    padding: 40px 0px;
+}
+ 
+ .faq .faq-header h2 {
+    font-size: 18px;
+    line-height: 28px;
+}   
+
+.faq .faq-header P {
+    font-size: 7px;
+    line-height: 17px;
+}
+
+.faq .faq-body{
+	padding: 0px;
+}
+
+.faq .faq-body .accordion-button {
+    font-size: 10px;
+    padding: 15px 15px;
+}
+
+.faq .faq-body .accordion-body {
+    font-size: 7px;
+    padding: 15px 15px;
+}
+
+.download {
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+
+.download .inner-down h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.download .inner-down p {
+    font-size: 7px;
+    line-height: 17px;
+    margin: 0px 0px 40px;
+}
+
+.download .inner-down img{
+	width: 100px;
+	margin: 0px 0px 0px 15px;
+}
+
+.download .flote-img img {
+    position: relative;
+    width: 100%;
+    margin: 10px 0px -74px;
+}
+
+.copyright .footer-menu ul{
+	padding: 0px;
+}
+
+.copyright .footer-menu li {
+    font-size: 10px;
+}
+
+.copyright .footer-menu li a {
+    display: block;
+    text-align: center;
+    margin: 20px 10px 0px 0px;
+}
+
+.copyright p {
+    font-size: 8px;
+}
+
+/* css end*/
+}
+
+
+@media (min-width: 320px) and (max-width: 480px){
+/* css start*/
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px;
+}
+
+.header .try-button .btn-primary {
+    margin: 0px 0px 0px -8px
+}
+
+.slider .inner-slider {
+    padding: 60px 0px;
+}
+
+.slider .inner-slider .hero-text .htop p {
+    font-size: 14px;
+}
+
+.inner-slider .hero-text{
+	margin: -120px 0px -110px;
+}
+
+.slider .inner-slider .hero-text .hdown h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.slider .inner-slider .hero-text .hdown p {
+	font-size: 12px;
+}
+
+.slider .inner-slider .hero-text .double-button .btn-primary{
+	padding: 12px 22px;
+	font-size: 12px;
+}
+
+.slider .inner-slider .hero-text .double-button .btn-info {
+    padding: 12px 12px;
+    font-size: 12px;
+}
+
+.feature .inner-feature .feature-box{
+    justify-content: center;
+}
+
+.feature .inner-feature .feature-text{
+    text-align: center;
+}
+
+.feature .inner-feature .feature-text p{
+	font-size: 12px;
+}
+
+.feature .inner-feature .feature-box .content p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.feature .inner-feature .feature-box .icon img {
+    height: 70px;
+    width: 70px;
+    margin: 20px 40px 0px 0px;
+}
+
+.integration {
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.integration .inte-top h2 {
+    font-size: 26px;
+    line-height: 36px;
+ }
+ 
+ .integration .inte-top p {
+    font-size: 12px;
+    line-height: 24px;
+    margin: 30px 0px;
+} 
+
+.integration .inte-mid {
+    margin: 25px 0px;
+ }
+
+.integration .integration-contant {
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+
+ .integration .integration-contant h2 {
+    font-size: 28px;
+    line-height: 38px;
+} 
+
+.integration .integration-contant p {
+    font-size: 12px;
+    line-height: 22px;
+} 
+
+.our-app {
+    padding: 50px 0px;
+ }
+
+ .our-app .app-heading h2 {
+    font-size: 24px;
+    line-height: 34px;
+ }
+ 
+ .our-app .app-heading p {
+    font-size: 8px;
+    line-height: 18px;
+    margin: 0px 0px 40px; 
+ }
+ 
+ .we-build {
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.we-build .build-heading h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.we-build .build-heading p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.we-build .build-info h4 {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.we-build .build-info p {
+    font-size: 9px;
+    line-height: 19px;
+    margin: 0px 0px 30px;
+}   
+
+.we-build .build-info .build-button .btn-primary {
+    margin: 0px 0px 30px;
+}
+
+.pricing .pricing-top h2 {
+    font-size: 18px;
+    line-height: 28px;
+}  
+
+.pricing .pricing-top p {
+    font-size: 8px;
+    line-height: 18px;
+}
+
+.pricing .card {
+    width: 100%;
+ }
+
+ .faq {
+    padding: 40px 0px;
+}
+ 
+ .faq .faq-header h2 {
+    font-size: 21px;
+    line-height: 31px;
+}   
+
+.faq .faq-header P {
+    font-size: 8px;
+    line-height: 18px;
+}
+
+.faq .faq-body{
+	padding: 0px;
+}
+
+.faq .faq-body .accordion-button {
+    font-size: 10px;
+}
+
+.faq .faq-body .accordion-body {
+    font-size: 8px;
+}
+
+.download {
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+
+.download .inner-down h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.download .inner-down p {
+    font-size: 8px;
+    line-height: 18px;
+    margin: 0px 0px 40px;
+}
+
+.download .inner-down img{
+	width: 100px;
+	margin: 0px 0px 0px 30px;
+}
+
+.download .flote-img img {
+    position: relative;
+    width: 100%;
+    margin: 10px 0px -74px;
+}
+
+.copyright .footer-menu ul{
+	padding: 0px;
+}
+
+.copyright .footer-menu li {
+    font-size: 10px;
+}
+
+.copyright .footer-menu li a {
+    display: block;
+    text-align: center;
+    margin: 20px 10px 0px 0px;
+}
+
+.copyright p {
+    font-size: 9px;
+}
+/* css end*/
+
+}
+
+
+@media (min-width: 481px) and (max-width: 767px){
+/* css start*/
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px;
+}
+
+.header .try-button .btn-primary {
+    margin: 0px 0px 0px -8px
+}
+
+.slider .inner-slider {
+    padding: 60px 0px;
+}
+
+.inner-slider .hero-text{
+	margin: -120px 0px -110px;
+}
+
+.slider .inner-slider .hero-text .hdown h2 {
+    font-size: 44px;
+    line-height: 54px;
+}
+
+.feature .inner-feature .feature-text{
+    text-align: center;
+}
+
+.feature .inner-feature .feature-box{
+    justify-content: center;
+}
+
+.integration {
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.integration .inte-top p {
+	margin: 30px 0px;
+}
+
+.integration .inte-mid {
+    margin: 40px 0px;
+}
+
+.integration .integration-contant {
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+
+ .integration .integration-contant h2 {
+    font-size: 42px;
+    line-height: 52px;
+} 
+
+.our-app {
+    padding: 50px 0px;
+ }
+
+ .our-app .app-heading h2 {
+    font-size: 36px;
+    line-height: 46px;
+ }
+ 
+ .our-app .app-heading p {
+    font-size: 13px;
+    line-height: 23px;
+    margin: 0px 0px 40px; 
+ }
+
+ .we-build {
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.we-build .build-info .build-button .btn-primary {
+    margin: 0px 0px 30px;
+}
+
+.pricing .pricing-top h2 {
+    font-size: 26px;
+    line-height: 36px;
+}  
+
+.pricing .pricing-top p {
+    font-size: 13px;
+    line-height: 23px;
+}
+
+.pricing .card {
+    width: 100%;
+ }
+
+ .faq {
+    padding: 40px 0px;
+}
+ 
+ .faq .faq-header h2 {
+    font-size: 32px;
+    line-height: 42px;
+}   
+
+.faq .faq-header P {
+    font-size: 13px;
+    line-height: 23px;
+}
+
+.faq .faq-body{
+	padding: 0px;
+}
+
+.faq .faq-body .accordion-button {
+    font-size: 14px;
+}
+
+.faq .faq-body .accordion-body {
+    font-size: 12px;
+}
+
+.download {
+    width: 100%;
+    padding: 20px 0px 0px;
+}
+
+.download .inner-down h2 {
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.download .inner-down p {
+    font-size: 13px;
+    line-height: 23px;
+    margin: 0px 0px 40px;
+}
+
+.download .flote-img img {
+    position: relative;
+    width: 100%;
+    margin: 10px 0px -74px;
+}
+
+.copyright p {
+    font-size: 14px;
+}
+/* css end*/
+}
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+/* css start*/
+
+.slider .inner-slider {
+    padding: 60px 0px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+    margin: 0px;
+}
+
+.header .try-button .btn-primary {
+    margin: 0px 0px 0px -8px
+}
+
+.feature {
+    text-align: center;
+}
+
+.feature .inner-feature .feature-box {
+    justify-content: center;
+}
+
+ .our-app .app-info p {
+    font-size: 14px;
+}
+
+.integration {
+    text-align: center;
+}
+
+.inner-slider .hero-text{
+	margin: -120px 0px -110px;
+}
+
+.integration .inte-mid {
+    margin: 40px 0px;
+}
+
+.integration .inte-top p {
+    margin: 30px 0px;
+}
+
+.we-build{
+    text-align: center;
+}
+
+.we-build .build-info .build-button .btn-primary {
+    margin: 0px 0px 30px;
+}
+
+.pricing .card {
+    width: 100%;
+ }
+
+ .faq .faq-body {
+    margin: 40px 0px 0px;
+    padding: 0px 40px 0px;
+}
+
+.download .flote-img img {
+    position: relative;
+    width: 100%;
+    margin: 10px 0px -74px;
+}
+/* css end*/
+}
